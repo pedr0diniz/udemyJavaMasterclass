@@ -1,4 +1,4 @@
-package sec8ooppart2polymorphism.sec81111polymorphism;
+package sec8ooppart2polymorphism.sec8111polymorphismexercise;
 
 public class Holden extends Car {
     public Holden(int cylinders, String name) {
