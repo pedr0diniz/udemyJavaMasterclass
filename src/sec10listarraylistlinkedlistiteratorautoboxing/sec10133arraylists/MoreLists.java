@@ -1,4 +1,4 @@
-package sec10listarraylistlinkedlistiteratorautoboxing.arraylists;
+package sec10listarraylistlinkedlistiteratorautoboxing.sec10133arraylists;
 
 import java.util.ArrayList;
 import java.util.Arrays;
